@@ -6,4 +6,8 @@
     <string name="LoginName">Login Name</string>
     <string name="Password">Password</string>
     <string name="RadioButton">RadioButton</string>
+    <string name="dialog_message">Do you want to finish the activity</string>
+    <string name="dialog_title">Message</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">Cancel</string>
 </resources>
